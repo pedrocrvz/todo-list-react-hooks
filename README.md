@@ -1,3 +1,5 @@
+Simple todo list to try out [react hooks]( https://reactjs.org/docs/hooks-intro.html).
+
 In the project directory, you can run:
 
 ### `npm install`
